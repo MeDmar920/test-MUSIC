@@ -1,0 +1,6 @@
+token=NTk0Mzg4NDE4MDA4NDQ5MDU5.XRbt6Q.WRwoQdPjYMwCVv4wqY5Ga2d_ABY
+owner= 521615852467126272 
+prefix= !1
+game= MUSIC/!1PLAY
+stayinchannel=true
+songinstatus=false
