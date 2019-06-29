@@ -3,4 +3,4 @@ owner= 521615852467126272
 prefix= !1
 game= MUSIC/!1PLAY
 stayinchannel=true
-songinstatus=false
+songinstatus=true
